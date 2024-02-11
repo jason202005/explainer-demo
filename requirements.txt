@@ -5,4 +5,4 @@ plotly==5.18.0
 torch
 transformers==4.33.1
 streamlit==1.28.1
-tensorflow[and-cuda]
+tensorflow
